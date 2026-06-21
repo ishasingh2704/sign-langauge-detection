@@ -1,3 +1,41 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+ENV/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+.idea/
+
+# Model and large binary files
+*.keras
+*.h5
+*.tflite
+*.onnx
+*.onnx.json
+voices/
+*.mp4
+*.mov
+
+# Secrets
+.env
+
 dataset/
 olddataset/
 
