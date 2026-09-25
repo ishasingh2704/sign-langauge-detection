@@ -1,4 +1,5 @@
-# Multimodal Real-Time Sign Language to Text and Speech Translator
+#  Sign Language detector
+
 
 A premium, end-to-end multimodal translation application that leverages real-time computer vision, local Large Language Models (LLMs), and adaptive Text-to-Speech (TTS) to bridge the communication gap for American Sign Language (ASL) speakers. 
 
